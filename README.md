@@ -1,2 +1,2 @@
 # start
-try hands on machine learning
+Getting my hands dirty on Data Science
